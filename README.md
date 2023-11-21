@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Methods**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LucasZannoni/Portifolio_Lucas_Zannoni](https://github.com/LucasZannoni/Portifolio_Lucas_Zannoni)
+- 👨‍💻 All of my projects are available here!
 
 - 💬 Ask me about **Python, Tableau, Power BI**
 
