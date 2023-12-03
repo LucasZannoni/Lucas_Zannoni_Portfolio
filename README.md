@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Zannoni</h1>
 <h3 align="center">A passionate Data Analyst from Brazil</h3>
 
-<h3 align="center">I'm a Data Analyst with some years of experience in the field of data analysis using most of the market's usual tools, such as Python, SQL, Power BI and Tableau. I belive that my academic formation in engineering helps me with some businness vision and also provides me a different standpoint for insights in my projects.</h3>
+<h3 align="center">I'm a Data Analyst with some years of experience in the field of data analysis using most of the market's usual tools, such as Python, SQL, Power BI and Tableau. I believe that my academic formation in engineering helps me with some businness vision and also provides me a different standpoint for insights in my projects.</h3>
 
 <h3 align="center">I'm really passionate about data and believe in its power to provide meaningfull insights to people and companies. I'll be using this Repo as my professional portifolio, feel free to browse at the projects contained here. Hope you'll enjoy my portfolio!!.</h3>
 
