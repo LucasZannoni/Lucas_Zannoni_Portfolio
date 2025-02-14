@@ -2,9 +2,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Lucas Zannoni</h1>
-<h3 align="center">A passionate Data Analyst from Brazil</h3>
+<h3 align="center">A passionate Data Engineer from Brazil</h3>
 
-<h3 align="center">I'm a Data Analyst with some years of experience in the field of data analysis using most of the market's usual tools, such as Python, SQL, Power BI and Tableau. I believe that my academic formation in engineering helps me with some businness vision and also provides me a different standpoint for insights in my projects.</h3>
+<h3 align="center">I'm a Data Engineer with some years of experience in the field of data analysis using most of the market's usual tools, such as Python, SQL, AWS, Powerbi & Tableau. I believe that my academic formation in engineering helps me with some businness vision and also provides me a different standpoint for insights in my projects.</h3>
 
 <h3 align="center">I'm really passionate about data and believe in its power to provide meaningfull insights to people and companies. I'll be using this Repo as my professional portifolio, feel free to browse at the projects contained here. Hope you'll enjoy my portfolio!!.</h3>
 
@@ -15,13 +15,11 @@
 <br>
 
 
-- 🔭 I’m currently working on *Dataviz/Machine Learning Projects* and they can be seen here in this portfolio.
+- 🌱 I’m currently learning **Kubernetes and Container Orchestration**
 
-- 🌱 I’m currently learning **Machine Learning Methods**
+- 👨‍💻 All of my projects are available at [My Portifolio](https://github.com/LucasZannoni/Lucas_Zannoni_Portfolio)
 
-- 👨‍💻 All of my projects are available here!
-
-- 💬 Ask me about **Python, Tableau, Power BI**
+- 💬 Ask me about **Data Lakehouses, Spark, AWS, Pyhton, Data Pipelines...**
 
 - 📫 How to reach me **lucas.zannoni@hotmail.com**
 
